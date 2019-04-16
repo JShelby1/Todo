@@ -1,25 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Todo App:
 
-Things you may want to cover:
+* Run Todo App on your machine
 
-* Ruby version
+* Add a new Todo List (e.g. At Home Chores)
 
-* System dependencies
+* Add Todo Items to this Todo List
 
-* Configuration
+* Run CRUD operations on the Todo List Item object
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Run CRUD operations on this Todo List object
 
 * ...
 # todo
